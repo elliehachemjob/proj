@@ -1,0 +1,9 @@
+.newFlow-applicationFlow {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper-parent-applicationFlow {
+  display: flex;
+  justify-content: flex-end;
+}

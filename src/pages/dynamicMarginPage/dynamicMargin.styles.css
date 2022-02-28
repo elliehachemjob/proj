@@ -1,0 +1,101 @@
+.header-dynamicMargin {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 18px;
+}
+
+.label-dynamicMargin {
+  margin: 2.5px;
+  margin-left: 18px;
+  margin-top: 10px;
+}
+
+.container1-dynamicMargin {
+  border: 2px solid #1c6ea410;
+  border-radius: 10px 10px 10px 10px;
+  padding: 150px;
+  margin-bottom: 10px;
+  background-color: #94b3fd15;
+}
+
+.dropdown-dynamicMargin {
+}
+
+.button-list-label-dynamicMargin {
+  display: flex;
+}
+
+.button-wrapper-dynamicMargin {
+  margin-left: 15px;
+}
+
+.button-dynamicMargin {
+}
+
+.input-dynamicMargin {
+}
+
+.breakLine-dynamicMargin {
+}
+
+.searchInput-dynamicMargin {
+}
+
+.radio-dynamicMargin {
+}
+
+.description-dynamicMargin {
+}
+
+.table-dynamicMargin {
+}
+
+.checkBox-dynamicMargin {
+}
+
+.smallLogo-dynamicMargin {
+}
+.largeLogo-dynamicMargin {
+}
+
+.bellIcon-dynamicMargin {
+}
+
+.deleteItemIcon-dynamicMargin {
+}
+
+.refreshIcon-dynamicMargin {
+}
+
+.copyItemIcon-dynamicMargin {
+}
+
+.addItemIcon-dynamicMargin {
+}
+
+.editItemIcon-dynamicMargin {
+}
+.statusIcon-dynamicMargin {
+}
+
+.specialLinkIcon-dynamicMargin {
+}
+
+.profileIcon-dynamicMargin {
+}
+
+/* .toggle-list-parent-synchronize {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-synchronize {
+  grid-area: 1 / 1 / 2 / 2;
+  margin-left: 8px;
+}
+.div2-toggle-list-parent-synchronize {
+  grid-area: 1 / 3 / 2 / 4;
+} */

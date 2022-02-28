@@ -1,0 +1,105 @@
+.header-notificationPage {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+.label-notificationPage {
+  margin-left: 9px;
+}
+
+.dropdown-notificationPage {
+}
+
+.toggle-list-parent-notificationPage {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-notificationPage {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-toggle-list-parent-notificationPage {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.button-wrapper-notificationPage {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.breakLine-notificationPage {
+  margin-left: 10px;
+  margin-right: 22px;
+  opacity: 0.2;
+}
+
+.container1-notificationPage {
+  border: 2px solid #1c6ea410;
+  border-radius: 10px 10px 10px 10px;
+  padding: 20px;
+  margin-bottom: 10px;
+  background-color: #94b3fd15;
+}
+
+.button-notificationPage {
+  border: 2px solid;
+  background-color: #94b3fd15;
+  border-radius: 10px;
+}
+
+.button-notificationPage:hover {
+  border: 2px solid #94b3fd20;
+  background-color: #94b3fd20;
+}
+
+.input-notificationPage {
+}
+
+.searchInput-notificationPage {
+}
+
+.radio-notificationPage {
+}
+
+.description-notificationPage {
+}
+
+.table-notificationPage {
+}
+
+.checkBox-notificationPage {
+}
+
+.smallLogo-notificationPage {
+}
+.largeLogo-notificationPage {
+}
+
+.bellIcon-notificationPage {
+}
+
+.deleteItemIcon-notificationPage {
+}
+
+.refreshIcon-notificationPage {
+}
+
+.copyItemIcon-notificationPage {
+}
+
+.addItemIcon-notificationPage {
+}
+
+.editItemIcon-notificationPage {
+}
+.statusIcon-notificationPage {
+}
+
+.specialLinkIcon-notificationPage {
+}
+
+.profileIcon-notificationPage {
+}

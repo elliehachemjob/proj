@@ -1,0 +1,275 @@
+.parent-newApplicationFlow {
+  height: 40vh;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  grid-template-rows: 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.wrapper-left-newApplicationFlow {
+  background-color: rgb(65, 73, 89);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 30px;
+}
+
+.wrapper-right-newApplicationFlow {
+  background-color: rgb(238, 240, 242);
+  overflow: auto;
+}
+
+.parent-stepsWrapper-newApplicationFlow {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-column-gap: 25px;
+  grid-row-gap: 25px;
+}
+
+.rightSide-steps-newApplicationFlow {
+  padding-top: 110px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.breakLine-steps-newApplicationFlow {
+  padding: 5px;
+  border-bottom: 0px;
+  margin-top: 5px;
+  border-left: 5px dotted rgb(124, 174, 161);
+  height: 100px;
+  opacity: 1;
+}
+
+.breakLineIndicator-newApplicationFlow {
+  border: 5px solid rgb(124, 174, 161);
+  width: 22%;
+  opacity: 1;
+  border-radius: 9999px;
+  margin-bottom: 50px;
+}
+
+.newGoBackIcon-newApplicationFlow {
+  margin-bottom: 10px;
+  color: rgb(226, 229, 232);
+}
+
+.header-newApplicationFlow {
+  margin-bottom: 50px;
+  font-weight: 1000;
+  color: rgb(226, 229, 232);
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+.levelsLabel-newApplicationFlow {
+  margin-bottom: 30px;
+  color: rgb(226, 229, 232);
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.buttonLabel-newApplicationFlow {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 1000;
+}
+
+.buttonWrapper-newApplicationFlow {
+  margin-top: 110px;
+}
+
+.iconWrapper-newApplicationFlow {
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+}
+
+.iconWrapper-newApplicationFlow:hover {
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  transform: scale(1.2);
+}
+
+.iconWrapper1-newApplicationFlow {
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+}
+
+.iconWrapper1-newApplicationFlow::after {
+  content: '';
+}
+
+/* .iconWrapper1-newApplicationFlow:hover {
+  content: 'test';
+  background-color: transparent;
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  transform: translate(735px, -90px) scale(0.75);
+  transition: 1.5s;
+} */
+
+/* .iconWrapper2-newApplicationFlow {
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+}
+
+.iconWrapper2-newApplicationFlow:hover {
+  background-color: transparent;
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  transform: translate(630px, 85px) scale(0.75);
+  transition: 1.5s;
+} */
+.wrapperIconLabel-background-newApplicationFlow {
+  background-color: rgb(86, 94, 110);
+  border-radius: 10px;
+}
+
+.iconWrapper3-newApplicationFlow {
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+}
+
+.iconWrapper3-newApplicationFlow::after {
+  content: '';
+  white-space: nowrap;
+  display: block;
+  font-size: 20px;
+  font-weight: 1000;
+}
+
+.iconWrapper3-newApplicationFlow:active {
+  background-color: transparent;
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  /* transform: translate(620px, 265px) scale(0.75); */
+  transform: translate(620px, 265px) scale(0.75);
+
+  transition: 1.5s;
+}
+
+.iconWrapper3-newApplicationFlow:hover::after {
+  content: 'Email Verification';
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  transition: 1.5s;
+}
+
+.rightSide-labelIconWrapper-newApplicationFlow {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  border: 1px solid black;
+  background-color: rgb(255, 255, 255);
+  width: 250px;
+  min-height: 54px;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.label-newApplicationFlow {
+  font-weight: 1000;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.fix-labelRightSide-newApplicationFlow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.labelIcon1-newApplicationFlow {
+  font-weight: 1000;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  padding-left: 4px;
+  padding-top: 1.2px;
+}
+
+.labelIcon2-newApplicationFlow {
+  font-weight: 1000;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  padding-left: 4px;
+  padding-bottom: 2px;
+}
+
+.navigateSteps-newApplicationFlow {
+  display: flex;
+  justify-content: center;
+}
+
+.forwardIcon-newApplicationFlow {
+  transform: rotate(180deg);
+
+  margin-top: 20px;
+}
+
+.backwardIcon-newApplicationFlow {
+  margin-top: 20px;
+}
+
+.steps-counter-newApplicationFlow {
+  margin-top: 20px;
+  padding-right: 7px;
+  padding-left: 7px;
+  margin-left: 100px;
+  margin-right: 100px;
+  transform: translate(-5px);
+  background-color: hsl(163.2, 41.3%, 40.9%);
+  border-radius: 40px;
+}
+
+.draggableItems-newApplicationFlow {
+  
+}

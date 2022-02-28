@@ -1,0 +1,106 @@
+.breakLine-fieldsAdd {
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.deleteItemIcon-fieldsAdd {
+  color: #ff331f;
+}
+
+.checkBox-fieldsAdd {
+}
+
+.container1-fieldsAdd {
+  border: 1px solid hsl(0, 0%, 0%, 1);
+  border-radius: 5px 5px 5px 5px;
+  padding: 30px;
+  background-color: rgb(255, 255, 255);
+}
+
+.parentLabel-fieldsAdd {
+  display: grid;
+  grid-template-columns: 2fr repeat(3, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 30px;
+  padding-left: 0px;
+}
+
+.div1-label-fieldsAdd {
+  grid-area: 1 / 1 / 2 / 2;
+  width: 165px;
+}
+.div2-label-fieldsAdd {
+  grid-area: 1 / 2 / 2 / 3;
+  width: 165px;
+}
+.div3-label-fieldsAdd {
+  grid-area: 1 / 3 / 2 / 4;
+  width: 165px;
+}
+.div4-label-fieldsAdd {
+  grid-area: 1 / 4 / 2 / 5;
+  width: 165px;
+}
+
+.parentButton-fieldsAdd {
+  display: grid;
+  grid-template-columns: 2fr repeat(3, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.div1-Button-fieldsAdd {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-Button-fieldsAdd {
+  grid-area: 1 / 2 / 2 / 3;
+}
+.div3-Button-fieldsAdd {
+  grid-area: 1 / 3 / 2 / 4;
+}
+.div4-Button-fieldsAdd {
+  grid-area: 1 / 4 / 2 / 5;
+}
+
+.new-main-fieldsAdd {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-main-fieldsAdd {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-main-fieldsAdd {
+  grid-area: 2 / 1 / 3 / 2;
+}
+.div3-main-fieldsAdd {
+  grid-area: 3 / 1 / 4 / 2;
+}
+
+.label1-wrapper-addFields {
+}
+
+.label2-wrapper-addFields {
+}
+
+.label3-wrapper-addFields {
+}
+
+.wrapper-addIcon-addFields {
+  display: flex;
+}
+
+.button-wrapper-fieldsAdd {
+  width: 200px;
+}
+
+.button-wrapper-fieldsAdd-fixed {
+  padding-top: 20px;
+}

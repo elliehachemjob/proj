@@ -1,0 +1,95 @@
+.header-Questionnaire {
+  /* margin-bottom: 20px; */
+}
+
+.parent-Questionnaire {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-buttons-Questionnaire {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-searchInput-Questionnaire {
+  grid-area: 1 / 5 / 2 / 6;
+  margin-top: 12px;
+}
+
+.button-list-Questionnaire {
+  display: flex;
+}
+
+.button-wrapper-Questionnaire {
+  margin-left: 5px;
+  margin-top: 15px;
+}
+
+.searchInput-Questionnaire {
+  margin-bottom: 10px;
+}
+
+.table-Questionnaire {
+}
+
+.toggle-list-parent-Questionnaire {
+}
+
+.div1-toggle-list-parent-Questionnaire {
+}
+.div2-toggle-list-parent-Questionnaire {
+}
+
+.label-Questionnaire {
+}
+
+.breakLine-Questionnaire {
+}
+
+.input-Questionnaire {
+}
+
+.button-Questionnaire {
+}
+
+.radio-Questionnaire {
+}
+
+.description-Questionnaire {
+}
+
+.checkBox-Questionnaire {
+}
+
+.smallLogo-Questionnaire {
+}
+.largeLogo-Questionnaire {
+}
+
+.bellIcon-Questionnaire {
+}
+
+.deleteItemIcon-Questionnaire {
+}
+
+.refreshIcon-Questionnaire {
+}
+
+.copyItemIcon-Questionnaire {
+}
+
+.addItemIcon-Questionnaire {
+}
+
+.editItemIcon-Questionnaire {
+}
+.statusIcon-Questionnaire {
+}
+
+.specialLinkIcon-Questionnaire {
+}
+
+.profileIcon-Questionnaire {
+}

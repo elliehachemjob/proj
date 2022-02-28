@@ -1,0 +1,140 @@
+.header-bonus {
+  margin-bottom: 20px;
+}
+
+.parent-restNegativeBalance {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-restNegativeBalance {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.div2-restNegativeBalance {
+  grid-area: 1 / 2 / 2 / 3;
+}
+.div3-restNegativeBalance {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.parent-bonus {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-bonus {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-bonus {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.parent-bonus-lastItem {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-bonus-lastItem {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-bonus-lastItem {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.parent-bonus-exception {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-bonus-exception {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-bonus-exception {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.description-bonus {
+}
+
+.label-bonus {
+  margin: 2.5px;
+  margin-left: 18px;
+  margin-top: 10px;
+}
+
+.button-wrapper-bonus {
+  margin: 15px;
+}
+
+.list-bonus {
+  margin: 15px;
+}
+
+.input-bonus {
+  /* margin: 15px; */
+}
+
+.radio-bonus {
+}
+
+.deleteItemIcon-bonus {
+}
+
+.copyItemIcon-bonus {
+}
+
+.refreshIcon-bonus {
+}
+
+.button-wrapper-bonus {
+}
+
+.button-bonus {
+}
+
+.breakLine-bonus {
+}
+
+.searchInput-bonus {
+}
+
+.table-bonus {
+}
+
+.checkBox-bonus {
+}
+
+.smallLogo-bonus {
+}
+.largeLogo-bonus {
+}
+
+.bellIcon-bonus {
+}
+
+.addItemIcon-bonus {
+}
+
+.editItemIcon-bonus {
+}
+.statusIcon-bonus {
+}
+
+.specialLinkIcon-bonus {
+}
+
+.profileIcon-bonus {
+}

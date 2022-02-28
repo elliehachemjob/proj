@@ -1,0 +1,17 @@
+.background-leftSidebar {
+  background-color: #b5deff20;
+}
+
+.menu-leftSide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #1c6ea490;
+  border-radius: 10px 10px 10px 10px;
+  margin-bottom: 10px;
+  background-color: #94b3fd25;
+  padding: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 40px;
+}

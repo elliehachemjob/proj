@@ -1,0 +1,18 @@
+.parent-toggle-serverChooseModal {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-serverChooseModal {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-toggle-serverChooseModal {
+  grid-area: 1 / 5 / 2 / 6;
+}
+
+.label-serverChooseModal {
+  font-weight: 1000;
+}

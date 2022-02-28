@@ -1,0 +1,13 @@
+.fixedCreateIcon-buildFormModalFixed {
+  transform: scale(5.8);
+  margin-top: 50px;
+  margin-left: 70px;
+  color: #2b3a67;
+}
+
+.fixedCreateIcon-buildFormModalFixed:hover {
+  transform: scale(5.8);
+  margin-top: 50px;
+  margin-left: 70px;
+  color: hsl(225, 41%, 49%);
+}

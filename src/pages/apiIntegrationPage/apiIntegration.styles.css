@@ -1,0 +1,113 @@
+.header-apiIntegration {
+  margin-bottom: 20px;
+}
+
+.parent-apiIntegration {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-buttons-apiIntegration {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-searchInput-apiIntegration {
+  grid-area: 1 / 5 / 2 / 6;
+}
+
+.button-list-apiIntegration {
+  display: flex;
+}
+
+.button-wrapper-apiIntegration {
+  margin-left: 15px;
+}
+
+.button-apiIntegration {
+}
+
+.toggle-list-parent-apiIntegration {
+}
+
+.div1-toggle-list-parent-apiIntegration {
+}
+.div2-toggle-list-parent-apiIntegration {
+}
+
+.label-apiIntegration {
+}
+
+.breakLine-apiIntegration {
+}
+
+.input-apiIntegration {
+}
+
+.searchInput-apiIntegration {
+}
+
+.button-wrapper {
+}
+
+.button {
+}
+
+.radio-apiIntegration {
+}
+
+.description-apiIntegration {
+}
+
+.table-apiIntegration {
+}
+
+.checkBox-apiIntegration {
+}
+
+.smallLogo-apiIntegration {
+}
+.largeLogo-apiIntegration {
+}
+
+.bellIcon-apiIntegration {
+}
+
+.deleteItemIcon-apiIntegration {
+}
+
+.refreshIcon-apiIntegration {
+}
+
+.copyItemIcon-apiIntegration {
+}
+
+.addItemIcon-apiIntegration {
+}
+
+.editItemIcon-apiIntegration {
+}
+.statusIcon-apiIntegration {
+}
+
+.specialLinkIcon-apiIntegration {
+}
+
+.profileIcon-apiIntegration {
+}
+
+/* .toggle-list-parent-apiIntegration {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-apiIntegration {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-toggle-list-parent-apiIntegration {
+  grid-area: 1 / 3 / 2 / 4;
+} */

@@ -1,0 +1,52 @@
+mailServiceSettings was a very proper grid start
+
+f
+aligned 
+grid 
+flexbox
+mediaquery
+spacing(padding and margin) 
+typography
+divider
+eachSection divider
+color
+middle aspect 
+colors white(black which is the text and not founded)
+
+qquestion modal  = onoarding => questioner  => pool 
+
+pool => 
+
+applcation flow/flow congiguration/questioner modal  onboarding 
+
+
+Light blue/
+background color : light pink
+
+everything else is white 
+
+light white => #F7F6F2
+Light blue =>component #94B3FD
+
+
+light pink => background #B983FF
+
+each ekenebt wrap?
+
+
+color=> always blue and go bty percenta
+
+
+#94b3fd
+
+black 
+
+grey + blue and white gooes well 
+
+
+testpage + fixed modal + aligent items 
++ fixed lat page 
+
+add icons as many 
+
+proper media query 

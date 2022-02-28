@@ -1,0 +1,46 @@
+.buttonWrapper-applicationFlowHolder {
+  display: flex;
+  margin-bottom: -50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 5px;
+}
+
+.button1-wrapper-applicationFlowHolder {
+  padding-right: 10px;
+}
+
+.button2-wrapper-applicationFlowHolder {
+  padding-right: 10px;
+}
+
+.searchInput-applicationFlowHolder {
+}
+
+.searchInputWrapper-applicationFlowHolder {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.header-ApplicationFlowHolder {
+  padding-bottom: 10px;
+  padding-left: 5px;
+  font-size: 30px;
+}
+
+.link-applicationFlowHolder {
+  text-decoration: none;
+}
+
+.goBack-ApplicationFlowHolder {
+  padding-left: 5px;
+}
+
+.goBack-wrapper-ApplicationFlowHolder {
+  display: flex;
+}
+
+.goBackIcon-applicatioNFlowHolder {
+  margin-top: -3px;
+}

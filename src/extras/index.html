@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+        perspective: 400px;
+      }
+
+      .cube {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .side {
+        height: 75px;
+        width: 75px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: hsla(200, 100%, 50%, 0.5);
+        position: absolute;
+        border: 1px solid hsla(200, 100%, 10%, 0.5);
+      }
+
+      .right {
+        transform: rotateY(70deg) translateZ(2px);
+      }
+    </style>
+    <!-- <link href="styles.css" rel="stylesheet" /> -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cube</title>
+  </head>
+  <body>
+    <div class="cube">
+      <div class="side front">Front</div>
+      <div class="side left">Left</div>
+      <div class="side right">Right</div>
+      <div class="side back">Back</div>
+      <div class="side top">Top</div>
+      <div class="side bottom">Bottom</div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,55 @@
+.header-editSubCondition {
+  font-weight: 1000;
+  padding-bottom: 20px;
+  padding-left: 5px;
+}
+
+.specialHeader-editSubCondition {
+  font-weight: 1000;
+  padding-bottom: 20px;
+  padding-left: 10.5px;
+  margin-top: 30px;
+}
+
+.label-editSubCondition {
+  font-weight: 1000;
+  padding-top: 3px;
+}
+
+.toggle-list-parent-editSubCondition {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-editSubCondition {
+  grid-area: 1 / 1 / 2 / 2;
+  padding-top: 9px;
+  margin-bottom: 15px;
+}
+.div2-toggle-list-parent-editSubCondition {
+  grid-area: 1 / 3 / 2 / 4;
+  margin-bottom: 15px;
+}
+
+.toggle-label-editSubCondition {
+  font-weight: 1000;
+  font-size: 13px;
+}
+
+.breakLine-editSubCondition {
+  opacity: 0.2;
+}
+
+.stackIcon-editSubCondition {
+  color: #4c230a;
+}
+
+.stackIcon-editSubCondition:hover {
+  color: hsl(23, 77%, 7%);
+}
+.stackIcon-editSubCondition:focus {
+  color: hsl(23, 77%, 7%);
+}

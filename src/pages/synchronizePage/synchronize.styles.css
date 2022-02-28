@@ -1,0 +1,103 @@
+.grid {
+  display: grid;
+  grid-gap: 40px;
+
+  grid-template-columns: repeat(auto-fit, 186px);
+}
+
+.grid > * {
+}
+
+.container1-synchronize {
+  border: 2px solid #1c6ea410;
+  border-radius: 10px 10px 10px 10px;
+  padding: 150px;
+  margin-bottom: 10px;
+  background-color: #94b3fd15;
+}
+
+.toggle-list-parent-synchronize {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-synchronize {
+  grid-area: 1 / 1 / 2 / 2;
+  margin-left: 8px;
+}
+.div2-toggle-list-parent-synchronize {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.label-synchronize {
+  margin-left: 15px;
+}
+
+.dropdown-synchronize {
+}
+
+.button-list-synchronize {
+  display: flex;
+}
+
+.button-wrapper-synchronize {
+  margin-left: 15px;
+}
+
+.button-synchronize {
+}
+
+.breakLine-synchronize {
+}
+
+.input-synchronize {
+}
+
+.searchInput-synchronize {
+}
+
+.radio-synchronize {
+}
+
+.description-synchronize {
+}
+
+.table-synchronize {
+}
+
+.checkBox-synchronize {
+}
+
+.smallLogo-synchronize {
+}
+.largeLogo-synchronize {
+}
+
+.bellIcon-synchronize {
+}
+
+.deleteItemIcon-synchronize {
+}
+
+.refreshIcon-synchronize {
+}
+
+.copyItemIcon-synchronize {
+}
+
+.addItemIcon-synchronize {
+}
+
+.editItemIcon-synchronize {
+}
+.statusIcon-synchronize {
+}
+
+.specialLinkIcon-synchronize {
+}
+
+.profileIcon-synchronize {
+}

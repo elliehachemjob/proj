@@ -1,0 +1,129 @@
+.header-permissions {
+  margin-bottom: 20px;
+}
+
+.label-wrapper-permissions {
+  display: flex;
+}
+
+.label-permissions {
+  margin: 5px;
+}
+
+.table-permissions {
+}
+
+.searchInput-permissions {
+}
+
+.addItemIcon-permissions {
+}
+
+.editItemIcon-permissions {
+}
+
+.deleteItemIcon-permissions {
+}
+
+.parent-permissions {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-buttons-permissions {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-searchInput-permissions {
+  grid-area: 1 / 5 / 2 / 6;
+}
+
+.button-list-permissions {
+  display: flex;
+}
+
+.button-wrapper-permissions {
+  margin-left: 15px;
+}
+
+.button-permissions {
+}
+
+.searchInput-permissions {
+  margin-bottom: 10px;
+}
+
+.parent-searchInput-permissions {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-searchInput-permissions {
+  grid-area: 1 / 5 / 2 / 6;
+}
+
+.toggle-list-parent-permissions {
+}
+
+.div1-toggle-list-parent-permissions {
+}
+.div2-toggle-list-parent-permissions {
+}
+
+.breakLine-permissions {
+}
+
+.input-permissions {
+}
+
+.radio-permissions {
+}
+
+.description-permissions {
+}
+
+.checkBox-permissions {
+}
+
+.smallLogo-permissions {
+}
+.largeLogo-permissions {
+}
+
+.bellIcon-permissions {
+}
+
+.refreshIcon-permissions {
+}
+
+.copyItemIcon-permissions {
+}
+
+.statusIcon-permissions {
+}
+
+.specialLinkIcon-permissions {
+}
+
+.profileIcon-permissions {
+}
+
+/* .toggle-list-parent-permissions {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-permissions {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-toggle-list-parent-permissions {
+  grid-area: 1 / 3 / 2 / 4;
+} */

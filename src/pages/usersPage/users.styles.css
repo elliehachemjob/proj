@@ -1,0 +1,155 @@
+.header-users {
+  margin-bottom: 20px;
+}
+
+.label-wrapper-users {
+  display: flex;
+}
+
+.label-users {
+  margin: 5px;
+}
+
+.table-users {
+}
+
+.searchInput-users {
+}
+
+.addItemIcon-users {
+}
+
+.editItemIcon-users {
+}
+
+.deleteItemIcon-users {
+}
+
+.parent-users {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-buttons-users {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-searchInput-users {
+  grid-area: 1 / 5 / 2 / 6;
+}
+
+.button-list-users {
+  display: flex;
+}
+
+.button-wrapper-users {
+  margin-left: 15px;
+}
+
+.button-users {
+}
+
+.searchInput-users {
+  margin-bottom: 10px;
+}
+
+.parent-searchInput-users {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-searchInput-users {
+  grid-area: 1 / 5 / 2 / 6;
+}
+
+.toggle-list-parent-users {
+}
+
+.div1-toggle-list-parent-users {
+}
+.div2-toggle-list-parent-users {
+}
+
+.header-users {
+}
+
+.label-users {
+}
+
+.breakLine-users {
+}
+
+.input-users {
+}
+
+.searchInput-users {
+}
+
+.button-wrapper {
+}
+
+.button {
+}
+
+.radio-users {
+}
+
+.description-users {
+}
+
+.table-users {
+}
+
+.checkBox-users {
+}
+
+.smallLogo-users {
+}
+.largeLogo-users {
+}
+
+.bellIcon-users {
+}
+
+.deleteItemIcon-users {
+}
+
+.refreshIcon-users {
+}
+
+.copyItemIcon-users {
+}
+
+.addItemIcon-users {
+}
+
+.editItemIcon-users {
+}
+.statusIcon-users {
+}
+
+.specialLinkIcon-users {
+}
+
+.profileIcon-users {
+}
+
+/* .toggle-list-parent-users {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-users {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-toggle-list-parent-users {
+  grid-area: 1 / 3 / 2 / 4;
+} */

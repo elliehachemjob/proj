@@ -1,0 +1,23 @@
+.parent-onBoarding {
+  display: grid;
+  grid-template-columns: 2fr 6fr;
+  grid-template-rows: 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 0;
+}
+
+.div1-onBoarding {
+  grid-area: 1 / 1 / 2 / 2;
+  margin-left: -400px;
+  margin-top: 10px;
+}
+.div2-onBoarding {
+  grid-area: 1 / 2 / 2 / 3;
+  margin-top: 125px;
+}
+
+.main-header-onBoarding {
+  padding-top: 15px;
+  font-weight: 1000;
+  font-size: 50px;
+}

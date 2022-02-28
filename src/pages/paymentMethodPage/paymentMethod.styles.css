@@ -1,0 +1,115 @@
+.header-paymentMethod {
+  margin-bottom: 20px;
+}
+
+.parent-paymentMethod {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-buttons-paymentMethod {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-searchInput-paymentMethod {
+  grid-area: 1 / 5 / 2 / 6;
+}
+
+.button-list-paymentMethod {
+  display: flex;
+}
+
+.button-wrapper-paymentMethod {
+  margin-left: 15px;
+}
+.table-paymentMethod {
+}
+
+.button-apiIntegration {
+}
+
+.toggle-list-parent-paymentMethod {
+}
+
+.div1-toggle-list-parent-paymentMethod {
+}
+.div2-toggle-list-parent-paymentMethod {
+}
+
+.header-paymentMethod {
+}
+
+.label-paymentMethod {
+}
+
+.breakLine-paymentMethod {
+}
+
+.input-paymentMethod {
+}
+
+.searchInput-paymentMethod {
+}
+
+.button-wrapper {
+}
+
+.button {
+}
+
+.radio-paymentMethod {
+}
+
+.description-paymentMethod {
+}
+
+.checkBox-paymentMethod {
+}
+
+.smallLogo-paymentMethod {
+}
+.largeLogo-paymentMethod {
+}
+
+.bellIcon-paymentMethod {
+}
+
+.deleteItemIcon-paymentMethod {
+}
+
+.refreshIcon-paymentMethod {
+}
+
+.copyItemIcon-paymentMethod {
+}
+
+.addItemIcon-paymentMethod {
+}
+
+.editItemIcon-paymentMethod {
+}
+.statusIcon-paymentMethod {
+}
+
+.specialLinkIcon-paymentMethod {
+}
+
+.profileIcon-paymentMethod {
+}
+
+/* .toggle-list-parent-paymentMethod {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-paymentMethod {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-toggle-list-parent-paymentMethod {
+  grid-area: 1 / 3 / 2 / 4;
+} */

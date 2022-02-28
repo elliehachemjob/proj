@@ -1,0 +1,149 @@
+.parent-row1-youtube {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-row1-youtube {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-row1-youtube {
+  grid-area: 1 / 2 / 2 / 3;
+  padding-bottom: 5px;
+}
+.div3-row1-youtube {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.container1-row1-youtube {
+  display: flex;
+}
+
+.heading-div1-row1-youtube {
+  font-weight: 1000;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.label-div1-row1-youtube {
+  font-size: 10px;
+  margin-top: 7px;
+  margin-left: 2px;
+}
+
+.youtubeFilledIcon-div1-row1-youtube {
+  margin-left: 15px;
+}
+
+.drawerIcon-row1-youtube:hover {
+  cursor: pointer;
+}
+
+.container2-row1-youtube {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.searchFilledIcon-div2-row1-youtube {
+  background-color: #f0f0f0;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -7px;
+}
+
+.recordSoundIcon-div2-row1-youtube {
+  background-color: #f0f0f0;
+  width: 30px;
+  height: 30px;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.container3-row1-youtube {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+
+.defaultIcons-div3-row1-youtube {
+  margin-left: 40px;
+}
+
+.breakLine-row2-youtube {
+  border: 1px solid rgb(229, 229, 229);
+  opacity: 0.5;
+  width: 935px;
+  margin-left: 215px;
+}
+
+.parent-row3-youtube {
+  display: grid;
+  grid-template-columns: 1fr 8fr;
+  grid-template-rows: 0.1;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.labelWrapper-main-row2-youtube {
+  background-color: hsla(0, 0%, 1%, 1);
+  color: white;
+  border-radius: 50px;
+  margin-left: 10px;
+  padding: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.forwardIcon-row2-youtube {
+  margin-top: 6px;
+}
+
+.labelWrapper-row2-youtube {
+  background-color: hsla(0, 0%, 95%, 1);
+  border-radius: 50px;
+  margin-left: 10px;
+  padding: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.div1-row3-youtube {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-row3-youtube {
+  grid-area: 1 / 2 / 2 / 3;
+  margin-left: 50px;
+  margin-top: 15px;
+
+  background-color: rgb(249, 249, 249);
+  border-top: 1px solid rgb(229, 229, 229);
+}
+
+.container-div1-row3-youtube {
+  display: flex;
+  flex-direction: column;
+}
+
+.defaultIcon-div1-row3-youtube {
+  padding: 10px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.divider-cardContainer-div2-row3-youtube {
+  font-size: 8px;
+  opacity: 0.5;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 4px;
+}

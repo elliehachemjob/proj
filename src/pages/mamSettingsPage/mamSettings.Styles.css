@@ -1,0 +1,90 @@
+.header-mamSettings {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.label-mamSettings {
+  margin: 2.5px;
+  margin-left: 18px;
+  margin-top: 10px;
+}
+
+.dropdown-mamSettings {
+}
+
+.toggle-list-parent-mamSettings {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-mamSettings {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-toggle-list-parent-mamSettings {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.input-mamSettings {
+}
+
+.bellIcon-mamSettings {
+  
+}
+
+.button-list-mamSettings {
+}
+.button-wrapper-mamSettings {
+  margin-left: 15px;
+}
+
+.button-mamSettings {
+}
+
+.breakLine-mamSettings {
+}
+
+.searchInput-mamSettings {
+}
+
+.radio-mamSettings {
+}
+
+.description-mamSettings {
+}
+
+.table-mamSettings {
+}
+
+.checkBox-mamSettings {
+}
+
+.smallLogo-mamSettings {
+}
+.largeLogo-mamSettings {
+}
+
+.deleteItemIcon-mamSettings {
+}
+
+.refreshIcon-mamSettings {
+}
+
+.copyItemIcon-mamSettings {
+}
+
+.addItemIcon-mamSettings {
+}
+
+.editItemIcon-mamSettings {
+}
+.statusIcon-mamSettings {
+}
+
+.specialLinkIcon-mamSettings {
+}
+
+.profileIcon-mamSettings {
+}

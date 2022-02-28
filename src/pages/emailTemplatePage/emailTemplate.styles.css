@@ -1,0 +1,110 @@
+.header-emailTemplate {
+  margin-bottom: 20px;
+}
+
+.parent-emailTemplate {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-buttons-emailTemplate {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-searchInput-emailTemplate {
+  grid-area: 1 / 5 / 2 / 6;
+  margin-top: 12px;
+}
+
+.button-list-emailTemplate {
+  display: flex;
+}
+
+.button-wrapper-emailTemplate {
+  margin-left: 5px;
+  margin-top: 15px;
+}
+
+.searchInput-emailTemplate {
+  margin-bottom: 10px;
+}
+
+.table-emailTemplate {
+}
+
+.toggle-list-parent-emailTemplate {
+}
+
+.div1-toggle-list-parent-emailTemplate {
+}
+.div2-toggle-list-parent-emailTemplate {
+}
+
+.label-emailTemplate {
+}
+
+.breakLine-emailTemplate {
+}
+
+.input-emailTemplate {
+}
+
+.button-emailTemplate {
+}
+
+.radio-emailTemplate {
+}
+
+.description-emailTemplate {
+}
+
+.checkBox-emailTemplate {
+}
+
+.smallLogo-emailTemplate {
+}
+.largeLogo-emailTemplate {
+}
+
+.bellIcon-emailTemplate {
+}
+
+.deleteItemIcon-emailTemplate {
+}
+
+.refreshIcon-emailTemplate {
+}
+
+.copyItemIcon-emailTemplate {
+}
+
+.addItemIcon-emailTemplate {
+}
+
+.editItemIcon-emailTemplate {
+}
+.statusIcon-emailTemplate {
+}
+
+.specialLinkIcon-emailTemplate {
+}
+
+.profileIcon-emailTemplate {
+}
+
+.toggle-list-parent-emailTemplate {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-emailTemplate {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-toggle-list-parent-emailTemplate {
+  grid-area: 1 / 5 / 2 / 6;
+}

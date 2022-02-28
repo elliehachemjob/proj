@@ -1,0 +1,38 @@
+.wrapper-main-flowStepsModal {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 40px;
+  margin-right: 30px;
+}
+
+.wrapper-flowStepsModal {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-left: 65px;
+  padding-right: 65px;
+  border: 1px solid #2b3a6790;
+  border-radius: 10px;
+}
+
+.labelWrapper-flowStepsModal {
+  padding-right: 60px;
+}
+
+.inputWrapper-flowStepsModal {
+  padding-right: 70px;
+}
+
+.button-wrapper-flowStepsModal {
+}
+
+.ServerChooseModal-wrapper-flowStepsModal {
+  padding-right: 70px;
+}
+
+.button-wrapper-flowStepsModal {
+  display: flex;
+  justify-content: flex-end;
+}

@@ -1,0 +1,17 @@
+.box-sidebarLinks {
+  border: 1px solid #1c6ea410;
+  border-radius: 10px 10px 10px 10px;
+  margin-bottom: 10px;
+  background-color: #94b3fd40;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.box-sidebarLinks:hover {
+  border: 1px solid #1c6ea490;
+  border-radius: 10px 10px 10px 10px;
+  margin-bottom: 10px;
+  background-color: #94b3fd90;
+  margin-left: 20px;
+  margin-right: 20px;
+}

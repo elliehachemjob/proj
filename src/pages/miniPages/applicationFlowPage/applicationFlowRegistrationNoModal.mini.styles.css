@@ -1,0 +1,352 @@
+.wrapper-addIcon-applicationFlow {
+  display: flex;
+}
+
+.label-addIcon-applicationFlow {
+}
+
+.addItemIcon-applicationFlow {
+}
+
+.parent-applicationFlow {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-bottom: 10px;
+  margin-left: 2px;
+}
+
+.div1-applicationFlow {
+  padding-right: 5px;
+  margin-left: -2px;
+}
+
+.div2-applicationFlow {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: -2px;
+}
+
+.div3-applicationFlow {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: -2px;
+}
+
+.div4-applicationFlow {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: -2px;
+}
+
+.cancelCircleIcon-applicationFlowPage {
+  color: #11468f;
+}
+
+.specialLabel-applicationFlow {
+  text-decoration: underline;
+}
+
+.header-applicationFlow {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+.main-header-applicationFlow {
+  padding-bottom: 100px;
+  padding-top: 15px;
+  font-weight: 1000;
+}
+
+.label-applicationFlow {
+}
+
+.dropdown-applicationFlow {
+}
+
+.toggle-list-parent-applicationFlow {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-applicationFlow {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-toggle-list-parent-applicationFlow {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.button-wrapper-applicationFlow {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.breakLine-applicationFlow {
+  margin-left: 10px;
+  margin-right: 22px;
+  opacity: 0.2;
+}
+
+.container1-applicationFlow {
+  border: 2px solid #1c6ea410;
+  border-radius: 10px 10px 10px 10px;
+  padding: 20px;
+  margin-bottom: 10px;
+  background-color: #94b3fd15;
+}
+
+.button-applicationFlow {
+  border: 2px solid;
+  background-color: #94b3fd15;
+  border-radius: 10px;
+}
+
+.button-applicationFlow:hover {
+  border: 2px solid #94b3fd20;
+  background-color: #94b3fd20;
+}
+
+.parent-saveButton-applicationFlow {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.div1-saveButton-applicationFlow {
+}
+
+.input-applicationFlow {
+}
+
+.searchInput-applicationFlow {
+}
+
+.radio-applicationFlow {
+}
+
+.description-applicationFlow {
+}
+
+.table-applicationFlow {
+}
+
+.checkBox-applicationFlow {
+}
+
+.smallLogo-applicationFlow {
+}
+.largeLogo-applicationFlow {
+}
+
+.bellIcon-applicationFlow {
+}
+
+.deleteItemIcon-applicationFlow {
+  color: red;
+}
+
+.refreshIcon-applicationFlow {
+}
+
+.copyItemIcon-applicationFlow {
+}
+
+.addItemIcon-applicationFlow {
+}
+
+.editItemIcon-applicationFlow {
+}
+.statusIcon-applicationFlow {
+}
+
+.specialLinkIcon-applicationFlow {
+}
+
+.profileIcon-applicationFlow {
+}
+
+.sectionsWrapper-applicationFlow {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.sectionsWrapper-noAddFields-applicationFlow {
+  display: flex;
+}
+
+.checkBox-wrapper-applicationFlow {
+}
+
+.div1-label-applicationFlow {
+  grid-area: 1 / 1 / 2 / 2;
+  width: 165px;
+  padding-left: 5px;
+}
+
+.div2-label-applicationFlow {
+  grid-area: 1 / 2 / 2 / 3;
+  width: 165px;
+  padding-left: 12.5px;
+}
+
+.div3-label-applicationFlow {
+  grid-area: 1 / 3 / 2 / 4;
+  width: 165px;
+  padding-left: 3px;
+}
+
+.div4-label-applicationFlow {
+  grid-area: 1 / 4 / 2 / 5;
+  width: 165px;
+}
+
+.div-wrapper-applicationFlow {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.div-wrapper-child-applicationFlow {
+  padding: 0.5rem 1rem;
+}
+
+.parent2-buttons-applicationFlow {
+  display: flex;
+}
+
+.buttons2-child-applicationFlow {
+  padding: 0.25rem 0.5rem 0rem 0rem;
+}
+
+.parent1-buttons-applicationFlow {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.buttons1-child-applicationFlow {
+  padding: 0.25rem 0.5rem 0rem 0rem;
+}
+
+.main-header-applicationFlow {
+  font-weight: 1000;
+  font-size: 25px;
+}
+
+.flowNameLabel-applicationFlow {
+  font-weight: 1000;
+  font-size: 13px;
+  padding-bottom: 10px;
+  padding-left: 2px;
+}
+
+.wrapper-applicationFlow {
+  padding-top: 33px;
+}
+
+.expandableAccordionWrapper-applicationFlow {
+  position: relative;
+}
+
+.positionedItem-applicationFlow-registration-noModal {
+  position: absolute;
+  right: -5px;
+  top: 10px;
+}
+
+.deleteStep-applicationFlow {
+  color: #f17070;
+  cursor: default;
+}
+
+.deleteStep-applicationFlow:hover {
+  color: hsl(0, 82%, 59%);
+}
+
+.deleteStep-applicationFlow:focus {
+  color: hsl(0, 82%, 59%);
+}
+
+.flex-applicationFlow {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.scroll-applicationFlow {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 800px;
+  overflow-y: auto;
+  margin-left: 150px;
+}
+
+.link-applicationFlow {
+  text-decoration: none;
+}
+
+.goBack-applicationFlow {
+  padding-left: 5px;
+}
+
+.goBack-wrapper-applicationFlow {
+  display: flex;
+  margin-left: 150px;
+}
+
+.goBackIcon-applicationFlow {
+  margin-top: -3px;
+}
+
+.flowNameLabelHeader-applicationFlow {
+  font-weight: 1000;
+  font-size: 20px;
+  padding-bottom: 10px;
+  padding-left: 2px;
+}
+
+.wrapper-questioner-applicationFlow {
+  display: flex;
+  justify-content: center;
+}
+
+.label-nearCondition-applicationFlow {
+  margin-left: 20px;
+  font-weight: 1000;
+}
+
+.label-nearCondition2-applicationFlow {
+  margin-top: 20px;
+  margin-left: -10px;
+  font-weight: 1000;
+}
+
+.DeleteIconOutlinedIcon-applicationFlow {
+  color: #f17070;
+  cursor: default;
+}
+
+.DeleteIconOutlinedIcon-applicationFlow:hover {
+  color: hsl(0, 82%, 59%);
+}
+
+.DeleteIconOutlinedIcon-applicationFlow:focus {
+  color: hsl(0, 82%, 59%);
+}
+
+.checkBoxLabel-wrapper-applicationFlow-noModal {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.checkBox-wrapper-applicationFlow-noModal {
+  margin-left: 15px;
+}
+
+.secondBoxAddCustomFieldsWrapper-applicationFlow {
+  margin-left: -140px;
+}

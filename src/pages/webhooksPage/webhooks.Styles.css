@@ -1,0 +1,104 @@
+.wrapper-webHooks {
+}
+
+.header-webHooks {
+  /* margin-bottom: 20px;
+  margin-right: 40px; */
+}
+
+.label-webHooks {
+}
+
+.parent-webHook {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-buttons-webHook {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-searchInput-webHook {
+  grid-area: 1 / 5 / 2 / 6;
+  margin-top: 12px;
+}
+
+.button-list-webHook {
+  display: flex;
+}
+
+.button-wrapper-webHooks {
+  margin-left: 5px;
+  margin-top: 15px;
+}
+
+.button-webHooks {
+}
+
+.searchInput-webHooks {
+  margin-bottom: 10px;
+}
+
+.table-webHooks {
+  /* border: 2px solid #1c6ea410;
+  border-radius: 10px 10px 10px 10px;
+  padding: 20px;
+  margin-bottom: 10px;
+  background-color: #94b3fd15; */
+}
+
+.toggle-list-parent-webHooks {
+}
+
+.div1-toggle-list-parent-webHooks {
+}
+.div2-toggle-list-parent-webHooks {
+}
+
+.breakLine-webHooks {
+}
+
+.input-webHooks {
+}
+
+.radio-webHooks {
+}
+
+.description-webHooks {
+}
+
+.checkBox-webHooks {
+}
+
+.smallLogo-webHooks {
+}
+.largeLogo-webHooks {
+}
+
+.bellIcon-webHooks {
+}
+
+.deleteItemIcon-webHooks {
+}
+
+.refreshIcon-webHooks {
+}
+
+.copyItemIcon-webHooks {
+}
+
+.addItemIcon-webHooks {
+}
+
+.editItemIcon-webHooks {
+}
+.statusIcon-webHooks {
+}
+
+.specialLinkIcon-webHooks {
+}
+
+.profileIcon-webHooks {
+}

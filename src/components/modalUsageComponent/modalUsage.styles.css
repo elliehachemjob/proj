@@ -1,0 +1,48 @@
+.wrapper-modalUsage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header-modalUsage {
+  margin: 5px;
+  padding: 5px;
+  text-decoration: underline;
+}
+
+.description-modalUsage {
+  margin-left: 25px;
+}
+
+.label-modalUsage {
+  margin: 5px;
+  padding: 5px;
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+.parent-modalUsage {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-modalUsage {
+  grid-area: 1 / 1 / 2 / 2;
+  margin: 10px;
+}
+.div2-modalUsage {
+  grid-area: 1 / 2 / 2 / 3;
+  margin-top: 19px;
+}
+.div3-modalUsage {
+  grid-area: 2 / 1 / 3 / 2;
+  margin: 10px;
+}
+.div4-modalUsage {
+  grid-area: 2 / 2 / 3 / 3;
+  margin-top: 20px;
+}

@@ -1,0 +1,243 @@
+.wrapper-addIcon-conditionsConfiguration {
+  display: flex;
+}
+
+.label-addIcon-conditionsConfiguration {
+}
+
+.addItemIcon-conditionsConfiguration {
+}
+
+.parent-conditionsConfiguration {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-bottom: 10px;
+  margin-left: 2px;
+}
+
+.div1-conditionsConfiguration {
+  padding-right: 5px;
+  margin-left: -2px;
+}
+
+.div2-conditionsConfiguration {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: -2px;
+}
+
+.div3-conditionsConfiguration {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: -2px;
+}
+
+.div4-conditionsConfiguration {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: -2px;
+}
+
+.cancelCircleIcon-conditionsConfigurationPage {
+  color: #11468f;
+}
+
+.specialLabel-conditionsConfiguration {
+  text-decoration: underline;
+}
+
+.header-conditionsConfiguration {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-left: 9px;
+  font-weight: 1000;
+}
+
+.label-conditionsConfiguration {
+  padding-left: 9px;
+  padding-bottom: 10px;
+  font-weight: 1000;
+}
+
+.dropdown-conditionsConfiguration {
+}
+
+.toggle-list-parent-conditionsConfiguration {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-conditionsConfiguration {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-toggle-list-parent-conditionsConfiguration {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.button-wrapper-conditionsConfiguration {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.breakLine-conditionsConfiguration {
+  margin-left: 10px;
+  margin-right: 22px;
+  opacity: 0.2;
+}
+
+.container1-conditionsConfiguration {
+  border: 2px solid #1c6ea410;
+  border-radius: 10px 10px 10px 10px;
+  padding: 20px;
+  margin-bottom: 10px;
+  background-color: #94b3fd15;
+}
+
+.button-conditionsConfiguration {
+  padding: 5px;
+}
+
+.parent-saveButton-conditionsConfiguration {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.div1-saveButton-conditionsConfiguration {
+}
+
+.input-conditionsConfiguration {
+}
+
+.searchInput-conditionsConfiguration {
+}
+
+.radio-conditionsConfiguration {
+}
+
+.description-conditionsConfiguration {
+}
+
+.table-conditionsConfiguration {
+}
+
+.checkBox-conditionsConfiguration {
+}
+
+.smallLogo-conditionsConfiguration {
+}
+.largeLogo-conditionsConfiguration {
+}
+
+.bellIcon-conditionsConfiguration {
+}
+
+.deleteItemIcon-conditionsConfiguration {
+}
+
+.refreshIcon-conditionsConfiguration {
+}
+
+.copyItemIcon-conditionsConfiguration {
+}
+
+.addItemIcon-conditionsConfiguration {
+}
+
+.editItemIcon-conditionsConfiguration {
+}
+.statusIcon-conditionsConfiguration {
+}
+
+.specialLinkIcon-conditionsConfiguration {
+}
+
+.profileIcon-conditionsConfiguration {
+}
+
+.parent-conditionsConfiguration {
+  display: flex;
+  flex-direction: column;
+}
+
+.div3-conditionsConfiguration {
+  padding: 5px;
+}
+
+.div4-conditionsConfiguration {
+  padding: 5px;
+}
+.div5-conditionsConfiguration {
+  padding: 5px;
+}
+
+.div6-conditionsConfiguration {
+  padding: 5px;
+}
+
+.parent-conditionsConfiguration {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 100px;
+  grid-row-gap: 0px;
+}
+
+.div1-conditionsConfiguration {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-conditionsConfiguration {
+  grid-area: 1 / 2 / 2 / 3;
+}
+.div3-parent-conditionsConfiguration {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.toggle-label-conditionsConfiguration {
+  padding-top: 7px;
+  font-weight: 1000;
+}
+
+.conditions-modal-conditionConfiguration {
+  position: absolute;
+  right: -150px;
+  top: 70px;
+}
+
+.wrapper-test-conditionsConfiguration {
+  display: flex;
+}
+
+.conditionsModal-conditionsConfiguration {
+  margin-top: 75px;
+}
+
+.special-conditionsConfiguration {
+  font-weight: 1000;
+  margin-left: 150px;
+  margin-top: -30px;
+}
+
+.toggle-list-parent-conditionConfiguration {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1-toggle-list-parent-conditionConfiguration {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2-toggle-list-parent-conditionConfiguration {
+  grid-area: 1 / 2 / 2 / 2;
+  margin-left: -70px;
+}
+
+.tableSection1-parent-conditionConfiguration {
+}
+.tableSection2-parent-conditionConfiguration {
+}
