@@ -5,8 +5,9 @@ function SpotifyLanding() {
   return (
     <>
     <div>button</div>
+    <div> Login Label </div>
     <div> Spotify Icon</div>
-    
+
     </>
 
   )
