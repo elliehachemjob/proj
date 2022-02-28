@@ -1,22 +1,57 @@
 import React from 'react'
+import Label from "../../../components/labelComponent/Label.component"
+import CardContainer from "../../../components/cardComponent/CardContainer.component"
+import Image from "../../../components/imageComponent/Image.component"
+import BreakLine from "../../../components/breakLineComponent/BreakLine.component"
 import "./browserAlbums.styles.css"
 
 function BrowseAlbums() {
   return (
     <>
       {/* 1st  */}
-      <div>Tom Pretty Label</div>
-      <div>Albums Label</div>
+      <Label label='Tom Pretty' size={15} />
+      <Label label='Albums' size={15} />
+
       {/* 2nd card */}
-      <div>An American 
-Treasure (Deluxe) Label</div> 
-<div> Tom Petty Label</div>
-  <div>2018-09-28
- Label</div>
- <div>63 tracks
-Label</div>
-<div> BreakLine</div>
-<div>Preview on Spotify Label</div>
+      <CardContainer
+    cardContent={
+      <>
+      <Image 
+      style={{width:250,height:30,marginBottom:5}}
+       src=""
+      />
+    <Label label='An American 
+Treasure (Deluxe)' size={15} />
+    <Label label='Tom Petty' size={15} />
+    <Label label='2018-09-28' size={15} />
+    <Label label='63 tracks' size={15} />
+
+      </>
+
+  
+    
+    }
+
+ cardActions={
+   <>
+         <div >
+         <BreakLine />
+
+         Preview on Spotify Label
+   
+
+   </div>
+
+
+
+   </>
+}
+    />
+  
+ 
+
+
+
 
     </>
   )

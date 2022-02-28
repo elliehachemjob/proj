@@ -15,7 +15,7 @@ function CardContainer(props) {
       <CardContent style={props.cardContentStyle}>
         {props.cardContent}
       </CardContent>
-      <CardActions>{props.cardAction}</CardActions>
+      <CardActions>{props.cardActions}</CardActions>
     </Card>
   );
 }
